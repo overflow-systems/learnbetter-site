@@ -36,6 +36,24 @@
                 </div>
             </nav>
         </header>
+        <main class="main">
+            <!-- Hero section -->
+            <section class="hero section" id="home">
+                <div class="hero_container">
+                    <div class="hero_data">
+                        <h1 class="section_title">
+                        ENCONTRE A <p class="first_color_text">MENTORIA CERTA</p> PARA VOCÊ
+                        </h1>
+                        <p class="hero_data_subtext">
+                        A LearnBetter é a solução para quem busca ensinar,<br>
+                        a fim de por em prática o conteúdo entendido e<br>
+                        para aquele que procura uma ajudinha,<br>
+                        no aprendizado e não sabe por onde começar.<br>
+                        </p>
+                    </div>
+                </div>
+            </section>
+        </main>
     </body>
 </html>
 

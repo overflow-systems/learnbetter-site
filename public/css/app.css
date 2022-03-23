@@ -10,14 +10,13 @@
   --text-color: #333333;
 
   --input-color: #3EBFC7;
-  --body-color: #eee;
-  --container-color: #eee;
+  --body-color: #fff;
 
   --body-font: "Roboto", sans-serif;
 
   --big-font-size: 2rem;
-  --h1-font-size: 1.5rem;
-  --h2-font-size: 1.25rem;
+  --h1-font-size: 3rem;
+  --h2-font-size: 2rem;
   --h3-font-size: 1.125rem;
   --default-font-size: 0.938rem;
   --small-font-size: 0.813rem;
@@ -105,4 +104,22 @@ a {
 .btn_menu{
     background-color: var(--first-color-second);
     padding: var(--mb-0-5);
+}
+
+/* hero section  */
+.hero{
+  padding-top: 8rem;
+  background-image: url("../image/hero_section.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: right;
+
+}
+
+.hero_data{
+  width: 60%;
+}
+
+.hero_data_subtext{
+  margin-top: 10px;
 }
